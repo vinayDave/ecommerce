@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/app.css"],"names":[],"mappings":"AACA,WACI,YAAa,CACb,cAAe,CACf,aACJ","file":"main.f0b97490.chunk.css","sourcesContent":["  \r\n.container {\r\n    width: 1200px;\r\n    max-width: 100%;\r\n    margin: 0 auto;\r\n}"]}
